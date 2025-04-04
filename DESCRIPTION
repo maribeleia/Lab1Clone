@@ -10,3 +10,5 @@ Imports: learnr
 License: MIT
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/BecariProbEst/lab1learnr
+BugReports: https://github.com/BecariProbEst/lab1learnr/issues
