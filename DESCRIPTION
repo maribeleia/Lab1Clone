@@ -1,0 +1,12 @@
+Package: lab1learnr
+Type: Package
+Title: Lab 1 - Tutorial interactiu amb learnr
+Version: 0.1.0
+Author: Maribel Ortego  [aut, cre]
+Maintainer: El teu Nom <maribel.ortego@upc.edu>
+Description: Aquest paquet conté un tutorial interactiu per al Lab 1 creat amb learnr.
+Depends: R (>= 3.5.0)
+Imports: learnr
+License: MIT
+Encoding: UTF-8
+LazyData: true
